@@ -191,9 +191,9 @@ sub askHelp
 # function to output the version number
 sub showVersion
 {
-    print STDERR "array-suffix-driver.pl      -        version 0.02\n";
-    print STDERR "Copyright (C) 2000-2003, Bridget Thomson McInnes\n";
-    print STDERR "Date of Last Update 24/03/04\n";
+    print STDERR "array-suffix-driver.pl      -        version 0.03\n";
+    print STDERR "Copyright (C) 2003-2004, Bridget Thomson McInnes\n";
+    print STDERR "Date of Last Update 20/04/04\n";
 
 }
 

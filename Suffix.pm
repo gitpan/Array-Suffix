@@ -40,7 +40,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw();
 
-our $VERSION = '.02';
+our $VERSION = '.03';
 
 #########################
 #  File Name Variables  #
@@ -872,7 +872,7 @@ Then, we get the following tokens:
 
 =head2 4. Usage
 
-    use Array:Suffix;
+    use Array::Suffix;
 
 =head3 Array::Suffix Requirements
 
