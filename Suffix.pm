@@ -40,7 +40,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw();
 
-our $VERSION = '.03';
+our $VERSION = '.4';
 
 #########################
 #  File Name Variables  #
