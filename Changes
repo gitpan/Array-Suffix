@@ -15,3 +15,7 @@ Revision history for Perl extension Array::Suffix.
 
 0.4 Fri Apr 30 10:28:42 2004
 	- updated documentation in driver program
+
+0.5 Tue Aug 28 15:52:10 2007
+	- modified Makfile to die if the version of 
+	  Perl used is less than 5.8.5

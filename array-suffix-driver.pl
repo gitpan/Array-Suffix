@@ -25,7 +25,7 @@ Ted Pedersen, tpederse@d.umn.edu
 
 =head1 COPYRIGHT
 
-Copyright (C) 2003-2004, Ted Pedersen and Bridget Thomson McInnes
+Copyright (C) 2004-2007, Bridget T. McInnes
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -191,9 +191,9 @@ sub askHelp
 # function to output the version number
 sub showVersion
 {
-    print STDERR "array-suffix-driver.pl      -        version 0.4\n";
-    print STDERR "Copyright (C) 2003-2004, Bridget Thomson McInnes\n";
-    print STDERR "Date of Last Update 20/04/04\n";
+    print STDERR "array-suffix-driver.pl      -        version 0.5\n";
+    print STDERR "Copyright (C) 2004-2007, Bridget T. McInnes\n";
+    print STDERR "Date of Last Update 28/08/07\n";
 
 }
 

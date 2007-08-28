@@ -1,7 +1,7 @@
 #########################################################################
 # PACKAGE: Array::Suffix
 #
-# Copyright (C), 2004
+# Copyright (C), 2004-2007
 # Bridget Thomson McInnes,       bthomson@d.umn.edu
 #
 # University of Minnesota, Duluth
@@ -40,7 +40,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
 our @EXPORT = qw();
 
-our $VERSION = '.4';
+our $VERSION = '.5';
 
 #########################
 #  File Name Variables  #
@@ -1047,7 +1047,7 @@ used.
 
 =head1 COPYRIGHT
 
-Copyright (C) 2004, Bridget Thomson McInnes
+Copyright (C) 2004-2007, Bridget Thomson McInnes
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
